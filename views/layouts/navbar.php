@@ -36,6 +36,7 @@
             <li><a class="dropdown-item text-white text-uppercase t_letra" href="letreros_neon_led">letreros neon led</a></li>
             <li><a class="dropdown-item text-white text-uppercase t_letra" href="cubos_led">Cubos led</a></li>
             <li><a class="dropdown-item text-white text-uppercase t_letra" href="relojes_digitales">Relojes digitales</a></li>
+            <li><a class="dropdown-item text-white text-uppercase t_letra" href="letreros_led">Letreros led</a></li>
             
             <!-- <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li> -->
