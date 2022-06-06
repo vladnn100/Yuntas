@@ -1,0 +1,42 @@
+[29-Apr-2022 19:28:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-Apr-2022 19:29:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-Apr-2022 19:29:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[27-May-2022 22:32:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-May-2022 00:06:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[04-Jun-2022 11:52:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[04-Jun-2022 16:57:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
