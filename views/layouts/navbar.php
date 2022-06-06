@@ -34,6 +34,8 @@
 			      <li><a class="dropdown-item text-white text-uppercase t_letra" href="pantallas_led">pantallas led</a></li>
 			      <li><a class="dropdown-item text-white text-uppercase t_letra" href="efectos3d">efectos 3d led</a></li>
             <li><a class="dropdown-item text-white text-uppercase t_letra" href="letreros_neon_led">letreros neon led</a></li>
+            <li><a class="dropdown-item text-white text-uppercase t_letra" href="cubos_led">Cubos led</a></li>
+            <li><a class="dropdown-item text-white text-uppercase t_letra" href="relojes_digitales">Relojes digitales</a></li>
             
             <!-- <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li> -->
