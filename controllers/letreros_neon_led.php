@@ -1,6 +1,6 @@
 <?php
 
-class Neon_led extends Controlador
+class letreros_neon_led extends Controlador
 {
 	
 	function __construct()
@@ -12,7 +12,7 @@ class Neon_led extends Controlador
 
 	function mostrarVista()
 	{
-		$nombre = "productos/neon_led";
+		$nombre = "productos/letreros_neon_led";
 		//Codigo para mostrar la Vista
 		//Generar el nombre de la vista: views/consulta/index.php
 		$fileName = "views/" . $nombre . ".php";
