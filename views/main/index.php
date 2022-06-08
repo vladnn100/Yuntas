@@ -10,7 +10,7 @@
     
     <meta name="keywords" content="Yuntas Producciones, luces led,letrero led, yuntas,pantallas led,calidad de imagen,efectos 3d led,Neon Led,luces navideñas,iluminación led, yuntas producciones,barras luces led, ventilador holografico, holograma 3d, publicidad,marketing, luces led de colores,luces led navidad">
 
-    <link rel="stylesheet" href="<?=URL?>public/css/home.css" >
+    <link rel="stylesheet" href="../public/css/home.css" >
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>YUNTAS</title>
@@ -24,9 +24,8 @@
 <h1 class="d-none">Bienvenido a Yuntas</h1>
     <div class="banner">
       <div class="container">
-       <img class="imagen" src="<?=URL?>public/img/porcentaje.webp" alt="porcentaje">
        <h1 class="titulos">YUNTAS PRODUCCIONES</h1>
-       <h2 class="subtitulo">DISEÑO NEÓN </h2>
+       <h2 class="subtitulo">LA MEJOR ILUMINACIÓN PARA TI </h2>
       </div>
     </div>
     <div class="info ">
@@ -45,76 +44,55 @@
           </div>
 
           <div class="whatsapp-presupuesto">
-          <a href="https://wa.me/51912849782?text=Hola,%20vengo%20de%20tu%20página%20web,%20quisiera%20obtener%20mi%20descuento." class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i> </a> <p>OBTENER DESCUENTO</p>
+          <a href="https://wa.me/51912849782?text=Hola,%20vengo%20de%20tu%20página%20web,%20quisiera%20obtener%20mi%20descuento." class="whatsapp" target="_blank"><p>¡COTIZA YA!</p></a> 
           </div>
         </div>
 
       </div>
       
     </div>
+    <h1 class="titulos2">PRODUCTOS</h1>
 
     <div class="container-sm my-5">
      <div style="margin:0 auto;" class="row ">
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1862352047308277/">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/Letrerosled_Facebook.webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/letrerosneonled.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">LETREROS NEÓN LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1855431218000360 ">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/Letreroleddefrases_Facebook.webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/letrerosled.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">LETREROS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1852085651668250">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/YUNTAS.png.webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/pantallasled.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">PANTALLAS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1845673008976181">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/Imagen(logo).webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/cubosled.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">CUBOS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1849006075309541">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/Artboard2.webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/efectos3d.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">EFECTOS 3D LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1859534624256686">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/Habitacionjuvenil.webp" alt="enlaces">
+       <a href="#">
+       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/relojesdigitales.webp" alt="enlaces">
        </a>
+       <h2 class="subtitulo2">RELOJES DIGITALES</h2>
      </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.instagram.com/p/Cb8bOFQuhH_/?igshid=YmMyMTA2M2Y=">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/LucesLEDdeBATMAN(instagram)_Mesadetrabajo1.webp" alt="enlaces">
-       </a>
-     </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.instagram.com/p/CcEEc4Hu6nn/?igshid=YmMyMTA2M2Y=">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/LucesLED_Instagram-01.webp" alt="enlaces">
-       </a>
-     </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.instagram.com/p/CcGfY_SLpIz/?igshid=YmMyMTA2M2Y=">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/donotenter_Instagram.webp" alt="enlaces">
-       </a>
-     </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.instagram.com/p/CcTYtMkJejz/?igshid=YmMyMTA2M2Y=">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/gameroom_instagram.webp" alt="enlaces">
-       </a>
-     </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.instagram.com/p/CcykEkTJbyB/?igshid=YmMyMTA2M2Y=">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/CONYUNTAS.webp" alt="enlaces">
-       </a>
-     </div>
-     <div class="col-lg-4 col-md-6">
-       <a href="https://www.facebook.com/YuntasProducciones/photos/a.926811824195642/1844825795727569">
-       <img style="width: 100%;height:308px;padding: 4px;object-fit: cover;" src="views/assets/PANTALLALED.webp" alt="enlaces">
-       </a>
-     </div>
+     
+     
      
      
      </div>
