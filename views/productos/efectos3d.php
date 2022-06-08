@@ -29,14 +29,31 @@
 
 <section class="ventilador-contenedor">
 	<div class="ventilador-imagen">
-		<img class ="ventilador" src="public/efectos3d/ventilador.webp"
+		<img class ="ventilador" src="public/efectos3d/Dinosaurio.png"
 		alt="ventilador">
 	</div>
 	<div class="ventilador-letras">
 		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
 		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR</div>
-	</div>	
+	</div>
+	
 </section>
+
+<section class="ventilador-contenedor">
+	<div class="ventilador-imagen">
+		<img class ="ventilador" src="public/efectos3d/Dinosaurio.png"
+		alt="ventilador">
+	</div>
+	<div class="ventilador-letras">
+		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
+		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR</div>
+	</div>
+	
+</section>
+
+
+
+
 <?php require_once("views/layouts/footer.php") ?>
 </body>
 </html>
