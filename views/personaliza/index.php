@@ -133,7 +133,7 @@
        <div class="">
             <h1 class="texto-color fw-bold text--color">SI QUIERES PERSONALIZAR EL TUYO</h1>
             
-            <h1 class="texto-color fw-bold text--color">LLÁMANOS AL <p1 class="fs-2 fw-bold underline text--color">912849782</p1 class="text--color"> O COMPLETA EL SIGUIENTE FORMULARIO</h1>
+            <h1 class="texto-color fw-bold text--color">LLÁMANOS AL <p1 class="fs-2 fw-bold underline">912849782</p1 class="text--color"> O COMPLETA EL SIGUIENTE FORMULARIO</h1>
         </div>
        
        </div>
