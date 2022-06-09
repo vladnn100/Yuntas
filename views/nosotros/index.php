@@ -33,6 +33,7 @@
             </div>
         </section>
     </div>
+
     <div class="back2">
         <section class="about2 container2">
 
@@ -69,7 +70,7 @@
         </section>
         <div class="titulo2">
             <h2>“CON YUNTAS ES MEJOR ”</h2>
-            </div>
+        </div>
     </div>
     
     </main>
