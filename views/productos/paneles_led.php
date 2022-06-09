@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="En Yuntas Producciones te brindamos nuevas experiencias para publicitar tu negocio. Ventas de Luces,Letreros y Pantallas LED .">
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="public/css/productos.css" >
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/css2?family=Akshar:wght@500&family=Bungee&display=swap" rel="stylesheet"> 
@@ -60,10 +61,20 @@
             margin: auto;
             font-size: 25px;
          }
-         .img_abajo{
+    .img_abajo{
              border-radius: 30px;
              
          }
+    .parrafo{
+      font-size: 40px;
+    }
+    .btn{
+      font-size: 100%;
+      width: 85%;
+      border-radius: 30px;     
+
+      
+    }
          
 	
 
@@ -102,6 +113,22 @@
                                
                
           </div>
+  <div class="container">
+    <div class="row justify-content-evently mx-auto">
+      <div class="col-12 col-lg-12 text-center p-3">
+      <p1 class="fw-bold parrafo">CONOCE MÁS DE NUESTROS PRODUCTOS</p1>
+        </div>
+        <div class=" col-6 col-md-6 py-3 p-3 px-2 mx-auto d-flex justify-content-center">
+          <button style="background-color: #9B59B6 "type="catalogo" class=" text-white fw-bold btn">VER CATÁLOGO</button>
+          
+        </div>
+        <div class=" col-6 col-md-6 py-3 p-3 px-2 mx-auto justify-content-center text-white">
+          <button style="background-color: #9B59B6 "type="catalogo" class="text-white fw-bold btn">COTIZAR</button>
+          
+        </div>
+    </div>
+    
+  </div>
 
    
 
@@ -110,6 +137,7 @@
 
     <?php require_once("views/layouts/enlaces.php") ?>
 
+    <?php require_once("views/layouts/catalogo.php") ?>
     <?php require_once("views/layouts/footer.php") ?>
     
   </body>
