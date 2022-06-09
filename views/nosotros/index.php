@@ -25,7 +25,7 @@
                 <img src="public/nosotros/logowhite2.webp" class="about__img" alt="logo">
             </figure>
             <div class="about__course">
-                <h2 class="title">SOBRE NOSOTROS MAYUMI</h2>
+                <h2 class="title">SOBRE NOSOTROS </h2>
                 <div class="form-group col-sm-12 col-xs-12">
                 <hr class="hr_black" >
 </div>
@@ -33,6 +33,7 @@
             </div>
         </section>
     </div>
+
     <div class="back2">
         <section class="about2 container2">
 
@@ -69,7 +70,7 @@
         </section>
         <div class="titulo2">
             <h2>“CON YUNTAS ES MEJOR ”</h2>
-            </div>
+        </div>
     </div>
     
     </main>
