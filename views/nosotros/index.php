@@ -25,7 +25,7 @@
                 <img src="public/nosotros/logowhite2.webp" class="about__img" alt="logo">
             </figure>
             <div class="about__course">
-                <h2 class="title">SOBRE NOSOTROS MAYUMI</h2>
+                <h2 class="title">SOBRE NOSOTROS </h2>
                 <div class="form-group col-sm-12 col-xs-12">
                 <hr class="hr_black" >
 </div>

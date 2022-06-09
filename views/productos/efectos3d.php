@@ -33,8 +33,8 @@
 		alt="ventilador">
 	</div>
 	<div class="ventilador-letras">
-		<div class="letras-titulo">PANTALLA HOLOGRAFICO</div>
-		<div class="letras-parrafo">IDEAL PARA PROMOCIONAR TU NEGOCIO Y DIFERENTE DE LA COMPETENCIA.</div>
+		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
+		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR </div>
 	</div>
 	
 </section>
@@ -46,15 +46,29 @@
 		alt="ventilador">
 	</div>
 	<div class="ventilador1-letras">
-		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
-		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR</div>
+		<div class="letras-titulo">PANTALLA HOLOGRAFICO</div>
+		<div class="letras-parrafo">IDEAL PARA PROMOCIONAR TU NEGOCIO Y DIFERENTE DE LA COMPETENCIA.</div>
 	</div>
 	
 </section>
 
+<div class="container">
+    <div class="row justify-content-evently mx-auto">
+      <div class="col-12 col-lg-12 text-center p-3">
+      <p1 class="fw-bold parrafo">CONOCE MÁS DE NUESTROS PRODUCTOS</p1>
+        </div >
+        <div class=" col-6 col-md-7 py-3 p-3 px-2 mx-auto d-flex justify-content-center">
+          <button style="background-color: #9B59B6 "type="catalogo" class=" text-white fw-bold btn">VER CATÁLOGO</button>
+          
+        </div>
+        <div class=" col-6 col-md-4 py-3 p-3 px-2 mx-auto justify-content-center text-white">
+        <a href="#" class="btn btn-primary disabled fw-bold btn" role="button" aria-disabled="true">COTIZAR</a>  
+		<!-- <button style="background-color: #9B59B6 "type="catalogo" class="text-white fw-bold btn">COTIZAR</button> -->
+          
+        </div>
+    </div>
+	</div>
 
-
-
-<?php require_once("views/layouts/footer.php") ?>
 </body>
+<?php require_once("views/layouts/footer.php") ?>
 </html>
