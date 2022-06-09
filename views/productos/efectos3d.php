@@ -33,18 +33,19 @@
 		alt="ventilador">
 	</div>
 	<div class="ventilador-letras">
-		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
-		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR</div>
+		<div class="letras-titulo">PANTALLA HOLOGRAFICO</div>
+		<div class="letras-parrafo">IDEAL PARA PROMOCIONAR TU NEGOCIO Y DIFERENTE DE LA COMPETENCIA.</div>
 	</div>
 	
 </section>
 
-<section class="ventilador-contenedor">
-	<div class="ventilador-imagen">
-		<img class ="ventilador" src="public/efectos3d/Dinosaurio.png"
+<section class="ventilador1-contenedor">
+	
+	<div class="ventilador1-imagen">
+		<img class ="ventilador1" src="public/efectos3d/trasformer.jpg"
 		alt="ventilador">
 	</div>
-	<div class="ventilador-letras">
+	<div class="ventilador1-letras">
 		<div class="letras-titulo">VENTILADOR HOLOGRAFICO</div>
 		<div class="letras-parrafo">EXELENTE HERRAMIENTA PARA PUBLICITAR TUS PRODUCTOS DE UNA MANERA DIFERENTE. NO TE QUEDES ATRAS Y PERMITE SEGUIR EN LA COMPETENCIA CON LO MEJOR PARA EL MEJOR</div>
 	</div>

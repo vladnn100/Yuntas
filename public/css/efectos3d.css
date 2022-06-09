@@ -289,9 +289,10 @@
 }
 
 .ventilador-imagen{
+	padding: 20px;
 	position: absolute;
 	height: 70vh;
-	left: 4vh;
+	left: 0vh;
 }
 
 .ventilador{
@@ -304,7 +305,7 @@
 	position: absolute;
 	width: 40%;
 	top: 24vh;
-	left: 78vh;	
+	left: 140vh;	
 }
 
 .letras-titulo{
@@ -397,14 +398,14 @@
 
 .ventilador-imagen{
 	position: absolute;
-	height: 60vh;
-	left: 1vh;
+	height: 80vh;
+	left: 4vh;
 }
 
 .ventilador{
 	object-fit: cover;
-	height: 100%;
-	width: 100%;	
+	height: 50%;
+	width: 50%;	
 }
 
 .ventilador-letras{
@@ -732,8 +733,8 @@
 .ventilador-letras{
 	position: absolute;
 	width: 40%;
-	top: 10vh;
-	left: 24vh;	
+	top: 15vh;
+	left: 90vh;	
 }
 
 .letras-titulo{
@@ -749,4 +750,313 @@
 	width: 34vw;
 }
 }
+
+
+@media (max-width: 2000px){
+
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 70vh;
+		left: 14vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 100%;
+		width: 100%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 29vh;
+		left: 110vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:4vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	
+	}
+	
+	@media (max-width: 1400px){
+
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 70vh;
+		left: 9vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 100%;
+		width: 100%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 29vh;
+		left: 87vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:4vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	@media (max-width: 1200px){
+	
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		padding: 20px;
+		position: absolute;
+		height: 70vh;
+		left: 140vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 100%;
+		width: 100%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 24vh;
+		left: 15vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:4vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	@media (max-width: 992px){
+
+	
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 80vh;
+		left: 4vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 50%;
+		width: 50%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 19vh;
+		left: 64vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:4vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	@media (max-width: 768px){
+	
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 60vh;
+		right: 28vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 70%;
+		width: 70%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 10vh;
+		left: 48vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:3vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	@media (max-width: 576px){
+	
+	
+	
+	
+	
+	
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 60vh;
+		right: 20vh;
+		top: 8vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 75%;
+		width: 75%;	
+	}
+	
+	.ventilador1-letras{
+		position: absolute;
+		width: 40%;
+		top: 16vh;
+		left: 39vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:3vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	@media (max-width: 466px){
+	
+	.ventilador1-contenedor{
+		position: relative;
+		background-color: #58bcfc;
+		width: 100%;
+		height: 70vh;
+	}
+	
+	.ventilador1-imagen{
+		position: absolute;
+		height: 60vh;
+		right: 28vh;
+	}
+	
+	.ventilador1{
+		object-fit: cover;
+		height: 70%;
+		width: 70%;	
+	}
+	
+	.ventilador-letras{
+		position: absolute;
+		width: 40%;
+		top: 15vh;
+		left: 90vh;	
+	}
+	
+	.letras-titulo{
+		color: white;
+		font-family: 'Bungee', cursive;
+		font-size:3vh;
+	}
+	
+	.letras-parrafo{
+		color: white;
+		font-family: 'Akshar', sans-serif;
+		font-size:2.5vh;
+		width: 34vw;
+	}
+	}
+	
+	
+	
+	
+	
 
