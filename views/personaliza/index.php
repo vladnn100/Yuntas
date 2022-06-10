@@ -73,6 +73,8 @@
        }
        .form__picture{
            width:45%;
+           display: flex;
+           align-items: center;
        }
        .form__control{
            width:45%;
@@ -80,7 +82,8 @@
        }
        .form__imgg{
           width:100%;
-           height:100%;
+           height:75%;
+           object-fit: cover;
        }
        .gallery__picture{
            width:30%;
@@ -106,6 +109,26 @@
        @media (min-width: 1024px) { 
             .ancho{
                 width: 75%;
+            }
+        }
+        @media screen and (max-width: 780px) {
+            .container__form{
+                flex-wrap: wrap;
+            }
+            .form__control{
+           width:90%;   
+            }
+            .form__picture{
+            width:90%;
+           }
+        }
+        @media screen and (max-width: 560px) {
+            .container__gallery{
+                flex-wrap: wrap;
+            }
+            .gallery__picture{
+                 width:85%;
+                 max-width: 400px;
             }
         }
         
@@ -138,17 +161,17 @@
        
        </div>
          <div class="container__form">
-              <figure class="form__picture"> <img class="form__imgg" src="public/personaliza/Harry-Styles.jpg" alt="imagen neon"></figure>
+              <figure class="form__picture"> <img class="form__imgg" src="public/personaliza/pexels-luis-quintero-2148232.jpg" alt="imagen neon"></figure>
               <form  class="form__control row" action="<?php echo constant('URL')?>enviar_prueba" method="post" class="formulario">
                    <label for="nombre" class="form-label texto-color fw-bold text--color"><h3>NOMBRE*</h3></label>
                   <input type="text" class="form-control form__input" id="nombre" aria-describedby="emailHelp" name="nombre">
                    <label for="email" class="form-label texto-color fw-bold text--color"><h3>EMAIL*</h3></label>
                  <input type="email" class="form-control form__input" id="email" aria-describedby="emailHelp" name="email">
-                  <label for="telefono" class="form-label texto-color fw-bold text--color"><h3>TELEFONO*</h3></label>
+                  <label for="telefono" class="form-label texto-color fw-bold text--color"><h3>NÚMERO DE CELULAR*</h3></label>
                 <input type="text" class="form-control form__input" id="telefono" aria-describedby="emailHelp" name="telefono">
                 <label for="mensaje" class="form-label texto-color fw-bold text--color"><h3>MENSAJE*</h3></label>
                 <textarea  rows="6" class="form-control w-100" id="mensaje form__input" cols="135" name="mensaje"></textarea>
-                 <input type="submit" style="color: #fff; background-color:rgb(181 53 244);" class="btn w-25  my-3 d-block mx-auto" value="enviar">
+                 <input type="submit" style="color: #fff; background-color:rgb(181 53 244);" class="btn w-25  my-3 d-block mx-auto" value="ENVIAR">
               </form>
          </div>
     
