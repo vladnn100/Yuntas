@@ -9,7 +9,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Akshar:wght@500&family=Bungee&display=swap" rel="stylesheet"> 
-	<?php require_once("views/layouts/enlaces.php") ?>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>	
+<?php require_once("views/layouts/enlaces.php") ?>
 </head>
 <body>
 <?php	require_once("views/layouts/navbar.php");?>
@@ -62,7 +64,7 @@
           
         </div>
         <div class=" col-6 col-md-4 py-3 p-3 px-2 mx-auto justify-content-center text-white">
-        <a href="#" class="btn btn-primary disabled fw-bold btn" role="button" aria-disabled="true">COTIZAR</a>  
+        <a class="btn btn-primary" href="cotizar3d.php" role="button">Link</a>
 		<!-- <button style="background-color: #9B59B6 "type="catalogo" class="text-white fw-bold btn">COTIZAR</button> -->
           
         </div>
