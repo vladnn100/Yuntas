@@ -55,21 +55,23 @@
 </section>
 
 <div class="container">
-    <div class="row justify-content-evently mx-auto">
-      <div class="col-12 col-lg-12 text-center p-3">
-      <p1 class="fw-bold parrafo">CONOCE MÁS DE NUESTROS PRODUCTOS</p1>
+    <div class="row justify-content-evently mx-auto border">
+        <div class="col-12 col-lg-12 text-center p-3 border">
+         <p1 class="fw-bold parrafo">CONOCE MÁS DE NUESTROS PRODUCTOS</p1>
         </div >
-        <div class=" col-6 col-md-7 py-3 p-3 px-2 mx-auto d-flex justify-content-center">
-          <button style="background-color: #9B59B6 "type="catalogo" class=" text-white fw-bold btn">VER CATÁLOGO</button>
-          
+        <div class=" col-6 col-md-4 py-3 p-3 px-5 mx-auto justify-content-center text-white">
+        <a class="btn btn-primary" href="catalogo" role="button">VER CATALOGO</a>
+		  
         </div>
-        <div class=" col-6 col-md-4 py-3 p-3 px-2 mx-auto justify-content-center text-white">
-        <a class="btn btn-primary" href="cotizar3d.php" role="button">Link</a>
+		
+        <div class=" col-6 col-md-4 py-3 p-3 px-5 mx-auto justify-content-center text-white">
+        <a class="btn btn-primary" href="personaliza" role="button">COTIZAR</a>
 		<!-- <button style="background-color: #9B59B6 "type="catalogo" class="text-white fw-bold btn">COTIZAR</button> -->
           
         </div>
+
     </div>
-	</div>
+</div>
 
 </body>
 <?php require_once("views/layouts/footer.php") ?>
