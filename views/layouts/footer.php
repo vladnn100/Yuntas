@@ -34,23 +34,24 @@
                     <div class="col-6 col-md-4  text-white">
                       <P class="color fw-bold text-center" >REDES SOCIALES</P>
                       <div class="redes" style="display: grid;grid-template-columns: repeat(2, 1fr);justify-content: left;">
-                          <a style="text-decoration:none;padding-left:3rem;" href="https://api.whatsapp.com/send/?phone=51912849782&text=Hola+vengo+de+tu+página+web&app_absent=0">
+                          <a style="text-decoration:none;padding-left:3rem;" href="https://web.facebook.com/YuntasProducciones/">
                               <img style="width:38px;height:38px;object-fit: cover;border-radius: 25px;margin-bottom: 0.3rem;" src="./public/presupuesto/FB.webp" alt="">
                           </a>
                           <p style="text-decoration:none;margin:0;padding-top: 0.3rem;">YUNTAS PRODUCCIONES</p>
-                          <a style="text-decoration:none;padding-left:3rem;" href="https://YUNTASPRODUCCIONES@GMAIL.COM">
+                          <a style="text-decoration:none;padding-left:3rem;" href="https://www.instagram.com/yuntasproducciones/?hl=es-la">
                               <img style="width:38px;height:38px;object-fit: cover;border-radius: 25px;margin-bottom: 0.3rem;" src="./public/presupuesto/IG.webp" alt="">
                           </a>
                           <p style="text-decoration:none;margin:0;padding-top: 0.3rem;">@YUNTASPRODUCCIONES</p>
-                          <a style="text-decoration:none;padding-left:3rem;" href="https://api.whatsapp.com/send/?phone=51912849782&text=Hola+vengo+de+tu+página+web&app_absent=0">
+                          <a style="text-decoration:none;padding-left:3rem;" href="https://www.tiktok.com/@yuntasproduccionesof">
                               <img style="width:38px;height:38px;object-fit: cover;border-radius: 25px;margin-bottom: 0.3rem;" src="./public/presupuesto/TikTok.webp" alt="">
                           </a>
                           <p style="text-decoration:none;margin:0;padding-top: 0.3rem;">@YUNTASPRODUCCIONES</p>
-                          <a style="text-decoration:none;padding-left:3rem;" href="https://YUNTASPRODUCCIONES@GMAIL.COM">
+                          <a style="text-decoration:none;padding-left:3rem;" href="https://www.youtube.com/watch?v=m_-aN4MX6YA">
                               <img style="width:38px;height:38px;object-fit: cover;border-radius: 25px;margin-bottom: 0.3rem;" src="./public/presupuesto/youtube.webp" alt="">
                           </a>
                           <p style="text-decoration:none;margin:0;padding-top: 0.3rem;">YUNTAS PRODUCCIONES</p>
                         </div>
+                        
 
                     </div>
                 </div>
