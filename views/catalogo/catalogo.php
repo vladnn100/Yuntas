@@ -11,24 +11,77 @@
 
 </head>
 <body>
-<div class="container">
+
+<div class="container py-2">
   <div class="row">
-    <div class="col border">
+    <div class="col bg-secondary border">
     <img src="public/catalogo/holografica1.jpeg" alt="" class=" w-100 h-100">
       
-      Column
     </div>
     <div class="col">
         <img src="public/catalogo/holografica2.jpeg" alt="" class=" w-100 h-100">
-      Column
+      
     </div> 
     <div class="col bg-secondary">
     <img src="public/catalogo/holografica3.jpeg" alt="" class=" w-100 h-100 ">
      
-      Column
     </div>
   </div>
 </div>
+
+<div class="container py-2">
+  <div class="row">
+    <div class="col bg-secondary border">
+    <img src="public/catalogo/holografica4.jpg" alt="" class=" w-100 h-100">
+    
+    </div>
+    <div class="col">
+        <img src="public/catalogo/holografica5.jpg" alt="" class=" w-100 h-100">
+      
+    </div> 
+    <div class="col bg-secondary">
+    <img src="public/catalogo/holografica6.jpg" alt="" class=" w-100 h-100 ">
+     
+    </div>
+  </div>
+</div>
+
+<div class="container py-2">
+  <div class="row">
+    <div class="col bg-secondary border">
+    <img src="public/catalogo/holografica7.jpg" alt="" class=" w-100 h-100">
+  
+    </div>
+    <div class="col">
+        <img src="public/catalogo/hologramas8.jpg" alt="" class=" w-100 h-100">
+      
+    </div> 
+    <div class="col bg-secondary">
+    <img src="public/catalogo/holografica9.jpg" alt="" class=" w-100 h-100 ">
+     
+    </div>
+  </div>
+</div>
+
+<div class="container py-2">
+  <div class="row">
+    <div class="col bg-secondary border">
+    <img src="public/catalogo/holografica10.jpg" alt="" class=" w-100 h-100">
+      
+    </div>
+    <div class="col">
+        <img src="public/catalogo/holografica11.png" alt="" class=" w-100 h-100">
+      
+    </div> 
+    
+    <div class="col bg-secondary">
+        <img src="public/catalogo/holografica4.jpg" alt="" class=" w-100 h-100">
+      
+    </div> 
+    
+  </div>
+</div>
+
 </body>
 <?php require_once("views/layouts/footer.php") ?>
 
