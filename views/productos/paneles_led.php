@@ -113,22 +113,7 @@
                                
                
           </div>
-  <div class="container">
-    <div class="row justify-content-evently mx-auto">
-      <div class="col-12 col-lg-12 text-center p-3">
-      <p1 class="fw-bold parrafo">CONOCE MÁS DE NUESTROS PRODUCTOS</p1>
-        </div>
-        <div class=" col-6 col-md-6 py-3 p-3 px-2 mx-auto d-flex justify-content-center">
-          <button style="background-color: #9B59B6 "type="catalogo" class=" text-white fw-bold btn">VER CATÁLOGO</button>
-          
-        </div>
-        <div class=" col-6 col-md-6 py-3 p-3 px-2 mx-auto justify-content-center text-white">
-          <button style="background-color: #9B59B6 "type="catalogo" class="text-white fw-bold btn">COTIZAR</button>
-          
-        </div>
-    </div>
-    
-  </div>
+  
 
    
 

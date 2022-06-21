@@ -1,4 +1,4 @@
-@media (max-width: 2000px){
+@media (min-width: 1024px){
 
 .banner-contenedor{
 	margin-top: 0vh;
@@ -71,12 +71,16 @@
 	background-color: #58bcfc;
 	width: 100%;
 	height: 70vh;
+	
 }
 
 .ventilador-imagen{
 	position: absolute;
 	height: 70vh;
 	left: 14vh;
+	margin-top: 3rem ;
+	margin-bottom: 3rem;
+	width: 45%;
 }
 
 .ventilador{
@@ -752,19 +756,21 @@
 }
 
 
-@media (max-width: 2000px){
+@media (min-width: 1024px){
 
 	.ventilador1-contenedor{
 		position: relative;
 		background-color: #58bcfc;
 		width: 100%;
-		height: 70vh;
+		height: 90vh;
 	}
 	
 	.ventilador1-imagen{
 		position: absolute;
 		height: 70vh;
 		left: 14vh;
+		margin-top: 3rem ;
+	margin-bottom: 3rem;
 	}
 	
 	.ventilador1{

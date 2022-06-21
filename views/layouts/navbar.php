@@ -43,7 +43,7 @@
           </ul>
         </li>
 		<li class="nav-item px-2">
-    <a class="nav-link text-white text-uppercase t_letra" href="<?php echo constant('URL') ?>personaliza">personaliza</a>
+    <a class="nav-link text-white text-uppercase t_letra" href="personaliza">personaliza</a>
         </li>
 		<li class="nav-item px-2">
           <a class="nav-link text-white text-uppercase t_letra" href="como_llegar">¿cómo llegar?</a>

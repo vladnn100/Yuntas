@@ -44,7 +44,7 @@
           </div>
 
           <div class="whatsapp-presupuesto">
-          <a href="https://wa.me/51912849782?text=Hola,%20vengo%20de%20tu%20página%20web,%20quisiera%20obtener%20mi%20descuento." class="whatsapp" target="_blank"><p>¡COTIZA YA!</p></a> 
+          <a href="personaliza" class="whatsapp"><p>¡COTIZA YA!</p></a> 
           </div>
         </div>
 
@@ -56,37 +56,37 @@
     <div class="container-sm my-5">
      <div style="margin:0 auto;" class="row ">
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="letreros_neon_led">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/letrerosneonled.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">LETREROS NEÓN LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="letreros_led">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/letrerosled.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">LETREROS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="pantallas_led">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/pantallasled.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">PANTALLAS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="cubos_led">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/cubosled.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">CUBOS LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="efectos3d">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/efectos3d.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">EFECTOS 3D LED</h2>
      </div>
      <div class="col-lg-4 col-md-6">
-       <a href="#">
+       <a href="relojes_digitales">
        <img style="width: 100%;height:308px;padding: 4px;object-fit: cover; border-radius: 30px;" src="views/assets/relojesdigitales.webp" alt="enlaces">
        </a>
        <h2 class="subtitulo2">RELOJES DIGITALES</h2>
